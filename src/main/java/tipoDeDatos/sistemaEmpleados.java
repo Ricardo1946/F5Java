@@ -7,7 +7,7 @@ public class sistemaEmpleados {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Bienvendio, eres un nuevo empleado! ");
-        System.out.print("Por favor vamos a ingresar los siguiente datos: ");
+        System.out.print("Por favor vamos a ingresar los siguientes datos: ");
 
         System.out.println("Ingresa tu nombre: ");
         String nombre = input.nextLine();
